@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstname": "onkundi",
+      "age": "30",
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstname": "millicent",
+      "age": "12",
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstname": "Fred",
+      "age": "15",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    { "id": "1", "name": "Apple", "description": "Macbook" },
+    { "id": "2", "name": "Google", "description": "Search" }
+  ]
+}
